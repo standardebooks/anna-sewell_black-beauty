@@ -47,9 +47,10 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A memoir narrated by Black Beauty, a horse who grew up on an idyllic English farm, before maturing to to encounter hardships and cruelty, as well as compassion and kindness.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Anna Sewell’s best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the hardships and cruel treatment that has been inflicted upon horses throughout history. As a result, the novel serves as a strong and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
+			&lt;p&gt;Best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by Anna Sewell was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the hardships and cruel treatment that has been inflicted upon horses throughout history. As a result, the novel serves as a strong and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<dc:source>https://www.gutenberg.org/ebooks/271</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008887136</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -61,21 +62,21 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Anthony Oberman</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
+		<meta property="file-as" refines="#artist">Oberman, Anthony</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">A. Light</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Light, A.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Linda Bowser</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Bowser, Linda</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Laura Klappenbach</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
+		<meta property="file-as" refines="#producer-1">Klappenbach, Laura</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://lauraklappenbach.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
@@ -150,62 +151,62 @@
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
-		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
-		<itemref idref="part-1.xhtml"/>
-		<itemref idref="chapter-1.xhtml"/>
-		<itemref idref="chapter-2.xhtml"/>
-		<itemref idref="chapter-3.xhtml"/>
-		<itemref idref="chapter-4.xhtml"/>
-		<itemref idref="chapter-5.xhtml"/>
-		<itemref idref="chapter-6.xhtml"/>
-		<itemref idref="chapter-7.xhtml"/>
-		<itemref idref="chapter-8.xhtml"/>
-		<itemref idref="chapter-9.xhtml"/>
-		<itemref idref="chapter-10.xhtml"/>
-		<itemref idref="chapter-11.xhtml"/>
-		<itemref idref="chapter-12.xhtml"/>
-		<itemref idref="chapter-13.xhtml"/>
-		<itemref idref="chapter-14.xhtml"/>
-		<itemref idref="chapter-15.xhtml"/>
-		<itemref idref="chapter-16.xhtml"/>
-		<itemref idref="chapter-17.xhtml"/>
-		<itemref idref="chapter-18.xhtml"/>
-		<itemref idref="chapter-19.xhtml"/>
-		<itemref idref="chapter-20.xhtml"/>
-		<itemref idref="chapter-21.xhtml"/>
-		<itemref idref="part-2.xhtml"/>
-		<itemref idref="chapter-22.xhtml"/>
-		<itemref idref="chapter-23.xhtml"/>
-		<itemref idref="chapter-24.xhtml"/>
-		<itemref idref="chapter-25.xhtml"/>
-		<itemref idref="chapter-26.xhtml"/>
-		<itemref idref="chapter-27.xhtml"/>
-		<itemref idref="chapter-28.xhtml"/>
-		<itemref idref="chapter-29.xhtml"/>
-		<itemref idref="chapter-30.xhtml"/>
-		<itemref idref="chapter-31.xhtml"/>
-		<itemref idref="part-3.xhtml"/>
-		<itemref idref="chapter-32.xhtml"/>
-		<itemref idref="chapter-33.xhtml"/>
-		<itemref idref="chapter-34.xhtml"/>
-		<itemref idref="chapter-35.xhtml"/>
-		<itemref idref="chapter-36.xhtml"/>
-		<itemref idref="chapter-37.xhtml"/>
-		<itemref idref="chapter-38.xhtml"/>
-		<itemref idref="chapter-39.xhtml"/>
-		<itemref idref="chapter-40.xhtml"/>
-		<itemref idref="chapter-41.xhtml"/>
-		<itemref idref="chapter-42.xhtml"/>
-		<itemref idref="chapter-43.xhtml"/>
-		<itemref idref="chapter-44.xhtml"/>
-		<itemref idref="chapter-45.xhtml"/>
-		<itemref idref="part-4.xhtml"/>
-		<itemref idref="chapter-46.xhtml"/>
-		<itemref idref="chapter-47.xhtml"/>
-		<itemref idref="chapter-48.xhtml"/>
-		<itemref idref="chapter-49.xhtml"/>
-		<itemref idref="colophon.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
-	</spine>
+			<itemref idref="titlepage.xhtml"/>
+			<itemref idref="imprint.xhtml"/>
+			<itemref idref="part-1.xhtml"/>
+			<itemref idref="chapter-1.xhtml"/>
+			<itemref idref="chapter-2.xhtml"/>
+			<itemref idref="chapter-3.xhtml"/>
+			<itemref idref="chapter-4.xhtml"/>
+			<itemref idref="chapter-5.xhtml"/>
+			<itemref idref="chapter-6.xhtml"/>
+			<itemref idref="chapter-7.xhtml"/>
+			<itemref idref="chapter-8.xhtml"/>
+			<itemref idref="chapter-9.xhtml"/>
+			<itemref idref="chapter-10.xhtml"/>
+			<itemref idref="chapter-11.xhtml"/>
+			<itemref idref="chapter-12.xhtml"/>
+			<itemref idref="chapter-13.xhtml"/>
+			<itemref idref="chapter-14.xhtml"/>
+			<itemref idref="chapter-15.xhtml"/>
+			<itemref idref="chapter-16.xhtml"/>
+			<itemref idref="chapter-17.xhtml"/>
+			<itemref idref="chapter-18.xhtml"/>
+			<itemref idref="chapter-19.xhtml"/>
+			<itemref idref="chapter-20.xhtml"/>
+			<itemref idref="chapter-21.xhtml"/>
+			<itemref idref="part-2.xhtml"/>
+			<itemref idref="chapter-22.xhtml"/>
+			<itemref idref="chapter-23.xhtml"/>
+			<itemref idref="chapter-24.xhtml"/>
+			<itemref idref="chapter-25.xhtml"/>
+			<itemref idref="chapter-26.xhtml"/>
+			<itemref idref="chapter-27.xhtml"/>
+			<itemref idref="chapter-28.xhtml"/>
+			<itemref idref="chapter-29.xhtml"/>
+			<itemref idref="chapter-30.xhtml"/>
+			<itemref idref="chapter-31.xhtml"/>
+			<itemref idref="part-3.xhtml"/>
+			<itemref idref="chapter-32.xhtml"/>
+			<itemref idref="chapter-33.xhtml"/>
+			<itemref idref="chapter-34.xhtml"/>
+			<itemref idref="chapter-35.xhtml"/>
+			<itemref idref="chapter-36.xhtml"/>
+			<itemref idref="chapter-37.xhtml"/>
+			<itemref idref="chapter-38.xhtml"/>
+			<itemref idref="chapter-39.xhtml"/>
+			<itemref idref="chapter-40.xhtml"/>
+			<itemref idref="chapter-41.xhtml"/>
+			<itemref idref="chapter-42.xhtml"/>
+			<itemref idref="chapter-43.xhtml"/>
+			<itemref idref="chapter-44.xhtml"/>
+			<itemref idref="chapter-45.xhtml"/>
+			<itemref idref="part-4.xhtml"/>
+			<itemref idref="chapter-46.xhtml"/>
+			<itemref idref="chapter-47.xhtml"/>
+			<itemref idref="chapter-48.xhtml"/>
+			<itemref idref="chapter-49.xhtml"/>
+			<itemref idref="colophon.xhtml"/>
+			<itemref idref="uncopyright.xhtml"/>
+		</spine>
 </package>
