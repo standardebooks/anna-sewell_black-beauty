@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anna-sewell/black-beauty</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-11-27T22:22:34Z</dc:date>
+		<meta property="dcterms:modified">2019-11-27T22:22:34Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -48,15 +48,15 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
-		<dc:description id="description">A memoir narrated by a horse whose idyllic time as a colt on an English farm shaped his temperament and prepared him for a life filled with constant change and varied circumstances including hardship, friendship, cruelty, and compassion.</dc:description>
+		<dc:description id="description">A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by Anna Sewell was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the lives of working horses and to reflect upon the cruel treatment that has been inflicted upon horses. As a result, the novel serves as a strenuous and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
+			&lt;p&gt;The best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by Anna Sewell was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the lives of working horses and to reflect upon the cruel treatment that has been inflicted upon them. As a result, the novel serves as a strenuous and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/271</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008887136</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">60323</meta>
+		<meta property="se:reading-ease.flesch">80.75</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Black_Beauty</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-sewell_black-beauty</meta>
 		<dc:creator id="author">Anna Sewell</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
