@@ -46,8 +46,8 @@
 		<meta property="term" refines="#subject-2">sh2008105783</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by Anna Sewell was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the lives of working horses and to reflect upon the cruel treatment that has been inflicted upon them. As a result, the novel serves as a strenuous and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
