@@ -55,7 +55,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/271</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008887136</dc:source>
 		<meta property="se:word-count">60325</meta>
-		<meta property="se:reading-ease.flesch">80.75</meta>
+		<meta property="se:reading-ease.flesch">81.16</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Black_Beauty</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anna-sewell_black-beauty</meta>
 		<dc:creator id="author">Anna Sewell</dc:creator>
