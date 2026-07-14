@@ -38,7 +38,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Black Beauty: The Autobiography of a Horse</dc:title>
 		<meta property="file-as" refines="#fulltitle">Black Beauty</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Horses -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-3">Great Britain -- History -- 19th century -- Juvenile fiction</dc:subject>
