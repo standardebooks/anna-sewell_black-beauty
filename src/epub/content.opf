@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/anna-sewell/black-beauty</dc:identifier>
 		<dc:date>2019-11-27T22:22:34Z</dc:date>
@@ -50,10 +50,10 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anna-sewell"&gt;Anna Sewell&lt;/a&gt; was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the lives of working horses and to reflect upon the cruel treatment that has been inflicted upon them. As a result, the novel serves as a strenuous and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/271</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008887136</dc:source>
