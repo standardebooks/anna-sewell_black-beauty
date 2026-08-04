@@ -50,7 +50,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Children’s</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</dc:abstract>
+		<meta property="schema:abstract">A memoir narrated by a horse whose idyllic time on an English farm prepares him for a life filled with constant change and varied circumstances.</meta>
 		<dc:description>
 			&lt;p&gt;The best-selling novel &lt;i&gt;Black Beauty&lt;/i&gt; by &lt;a href="https://standardebooks.org/ebooks/anna-sewell"&gt;Anna Sewell&lt;/a&gt; was published in 1877. The story is a first person narrative told from the perspective of the horse Black Beauty. This unique narrative perspective enables readers to empathize with the lives of working horses and to reflect upon the cruel treatment that has been inflicted upon them. As a result, the novel serves as a strenuous and timeless statement against animal cruelty and exploitation.&lt;/p&gt;
 		</dc:description>
